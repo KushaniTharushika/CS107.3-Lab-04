@@ -1,0 +1,10 @@
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 04\Lab 04-1\Lab 04-1\obj\Debug\Lab 04-1.csproj.AssemblyReference.cache
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 04\Lab 04-1\Lab 04-1\obj\Debug\Lab_04_1.Form1.resources
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 04\Lab 04-1\Lab 04-1\obj\Debug\Lab_04_1.Properties.Resources.resources
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 04\Lab 04-1\Lab 04-1\obj\Debug\Lab 04-1.csproj.GenerateResource.cache
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 04\Lab 04-1\Lab 04-1\obj\Debug\Lab 04-1.csproj.CoreCompileInputs.cache
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 04\Lab 04-1\Lab 04-1\bin\Debug\Lab 04-1.exe.config
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 04\Lab 04-1\Lab 04-1\bin\Debug\Lab 04-1.exe
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 04\Lab 04-1\Lab 04-1\bin\Debug\Lab 04-1.pdb
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 04\Lab 04-1\Lab 04-1\obj\Debug\Lab 04-1.exe
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\C# Lab Answers\Lab 04\Lab 04-1\Lab 04-1\obj\Debug\Lab 04-1.pdb
